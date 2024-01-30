@@ -227,6 +227,7 @@ header .container {
 .mainRight {
     width: calc(100% - 360px - 40px);
     height: 100%;
+    border: 1.5px solid #fff;
 }
 .mainRight video {
     width: 100%;
