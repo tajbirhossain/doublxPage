@@ -24,7 +24,7 @@ a {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 1900px;
     padding: 10px 15px;
     margin: 0 auto;
 }
@@ -490,6 +490,20 @@ header .container {
 
 
 
+
+
+
+@media (min-width: 1500px) {
+    .pageMain {
+        height: 900px;
+    }
+    .mainCenter {
+        height: 900px;
+    }
+    .welcomeWrap {
+        width: 900px;
+    }
+}
 
 
 
